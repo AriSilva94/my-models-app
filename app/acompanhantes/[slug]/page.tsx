@@ -1,10 +1,10 @@
 "use client";
-import { useParams, useRouter } from "next/navigation";
+import { useParams } from "next/navigation";
 import { models } from "../../data/models";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function ModelDetails() {
-  const router = useRouter();
   const params = useParams();
   const slug = params.slug as string;
   const model = models.find((model) => model.slug === slug);
@@ -29,12 +29,12 @@ export default function ModelDetails() {
         <p className="text-gray-600 mb-4">
           Information about {model.name} goes here.
         </p>
-        <button
-          onClick={() => router.back()}
+        <Link
+          href="/"
           className="mt-6 px-6 py-2 bg-blue-600 text-white font-semibold rounded hover:bg-blue-700 transition"
         >
-          Back
-        </button>
+          Início
+        </Link>
       </div>
     </div>
   );

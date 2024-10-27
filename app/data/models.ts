@@ -8,6 +8,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&auto=format&fit=crop",
     description: "Modelo profissional com experiência em campanhas de moda.",
+    city: "São Paulo - SP",
   },
   {
     id: "2",
@@ -16,6 +17,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&auto=format&fit=crop",
     description: "Especialista em desfiles e fotografia editorial.",
+    city: "Araraquara - SP",
   },
   {
     id: "3",
@@ -24,6 +26,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&auto=format&fit=crop",
     description: "Modelo internacional com foco em publicidade.",
+    city: "Campinas - SP",
   },
   {
     id: "4",
@@ -32,6 +35,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&h=400&auto=format&fit=crop",
     description: "Especializada em campanhas de moda sustentável.",
+    city: "Santos - SP",
   },
   {
     id: "5",
@@ -40,6 +44,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com experiência em desfiles internacionais.",
+    city: "Araraquara - SP",
   },
   {
     id: "6",
@@ -48,6 +53,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&auto=format&fit=crop",
     description: "Especialista em fotografia de moda editorial.",
+    city: "Ribeirão Preto - SP",
   },
   {
     id: "7",
@@ -56,6 +62,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em campanhas publicitárias.",
+    city: "Sorocaba - SP",
   },
   {
     id: "8",
@@ -64,6 +71,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em campanhas de beleza e cosméticos.",
+    city: "Araraquara - SP",
   },
   {
     id: "9",
@@ -72,6 +80,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1485875437342-9b39470b3d95?w=400&h=400&auto=format&fit=crop",
     description: "Modelo especializada em desfiles de alta costura.",
+    city: "Bauru - SP",
   },
   {
     id: "10",
@@ -80,6 +89,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em campanhas digitais e redes sociais.",
+    city: "Araraquara - SP",
   },
   {
     id: "11",
@@ -88,6 +98,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em editoriais de moda.",
+    city: "São José dos Campos - SP",
   },
   {
     id: "12",
@@ -96,6 +107,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?w=400&h=400&auto=format&fit=crop",
     description: "Especialista em campanhas de moda praia.",
+    city: "Jundiaí - SP",
   },
   {
     id: "13",
@@ -104,6 +116,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com experiência em campanhas internacionais.",
+    city: "Franca - SP",
   },
   {
     id: "14",
@@ -112,6 +125,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400&h=400&auto=format&fit=crop",
     description: "Especializada em fotografia comercial.",
+    city: "Piracicaba - SP",
   },
   {
     id: "15",
@@ -120,6 +134,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em campanhas publicitárias.",
+    city: "Araraquara - SP",
   },
   {
     id: "16",
@@ -128,6 +143,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em desfiles nacionais e internacionais.",
+    city: "Mogi das Cruzes - SP",
   },
   {
     id: "17",
@@ -136,6 +152,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&auto=format&fit=crop",
     description: "Modelo especializada em campanhas de joias.",
+    city: "São Bernardo do Campo - SP",
   },
   {
     id: "18",
@@ -144,6 +161,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1488716820095-cbe80883c496?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em campanhas de moda sustentável.",
+    city: "Guarulhos - SP",
   },
   {
     id: "19",
@@ -152,6 +170,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em editoriais de moda.",
+    city: "Araraquara - SP",
   },
   {
     id: "20",
@@ -160,6 +179,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?w=400&h=400&auto=format&fit=crop",
     description: "Especialista em campanhas digitais.",
+    city: "São Carlos - SP",
   },
   {
     id: "21",
@@ -168,6 +188,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com experiência em desfiles de moda.",
+    city: "Americana - SP",
   },
   {
     id: "22",
@@ -176,6 +197,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=400&h=400&auto=format&fit=crop",
     description: "Especializada em campanhas de beleza.",
+    city: "Mauá - SP",
   },
   {
     id: "23",
@@ -184,6 +206,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1485875437342-9b39470b3d95?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em publicidade.",
+    city: "Araraquara - SP",
   },
   {
     id: "24",
@@ -192,6 +215,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em campanhas internacionais.",
+    city: "Araraquara - SP",
   },
   {
     id: "25",
@@ -200,6 +224,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&h=400&auto=format&fit=crop",
     description: "Modelo especializada em moda praia.",
+    city: "Araraquara - SP",
   },
   {
     id: "26",
@@ -208,6 +233,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em campanhas de acessórios.",
+    city: "Araraquara - SP",
   },
   {
     id: "27",
@@ -216,6 +242,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em editoriais de moda.",
+    city: "Araraquara - SP",
   },
   {
     id: "28",
@@ -224,6 +251,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=400&h=400&auto=format&fit=crop",
     description: "Especialista em campanhas publicitárias.",
+    city: "Araraquara - SP",
   },
   {
     id: "29",
@@ -232,6 +260,7 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=400&h=400&auto=format&fit=crop",
     description: "Experiência em desfiles internacionais.",
+    city: "Araraquara - SP",
   },
   {
     id: "30",
@@ -240,5 +269,6 @@ export const models: Model[] = [
     imageUrl:
       "https://images.unsplash.com/photo-1485875437342-9b39470b3d95?w=400&h=400&auto=format&fit=crop",
     description: "Modelo com foco em campanhas de moda sustentável.",
+    city: "Araraquara - SP",
   },
 ];
