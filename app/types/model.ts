@@ -4,4 +4,9 @@ export interface Model {
   slug: string;
   imageUrl: string;
   description: string;
+  city: string;
+  values?: {
+    fee: number;
+    commission: number;
+  };
 }
